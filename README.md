@@ -1,8 +1,8 @@
 # VGG-11 on CIFAR-10 Dataset
 
 ## About
-This is the implementation of VGG-11 model using PyTorch. The goal was to build a VGG model from scratch using PyTorch modules which is
-then trained on CIFAR-10 Dataset. After 20 epochs, the accuracy for testing set is around 80%. The parameters are then saved for practicing purposes. 
+This is the implementation of VGG-11 model using PyTorch. The goal is to build a VGG model from scratch using PyTorch modules which is
+then trained on CIFAR-10 Dataset. After training for 20 epochs, the accuracy for testing set is around 80%. The parameters are then saved for practicing purposes. 
 
 ## VGG Model
 VGG stands for Visual Geometry Group. It is a Convolutional Neural Network(CNN) architecture with convolution blocks followed by 
