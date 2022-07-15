@@ -10,15 +10,4 @@ fully-connected layers. VGG-11, for example, has 8 convolutional layers and 3 fu
 [here](https://arxiv.org/abs/1409.1556).  
 
 ## Dataset
-CIFAR-10 dataset consists 60000 32x32 RGB images of 10 different classes. There are 50000 training images and 10000 test images. The 
-classes are :
-1. Airplane
-2. Automobile
-3. Bird
-4. Cat
-5. Deer
-6. Dog
-7. Frog
-8. Horse
-9. Ship
-10. Truck   
+CIFAR-10 dataset consists 60000 32x32 RGB images of 10 different classes. There are 50000 training images and 10000 test images. The categories are airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck. This dataset can be downloaded [here](https://www.cs.toronto.edu/~kriz/cifar.html). 
